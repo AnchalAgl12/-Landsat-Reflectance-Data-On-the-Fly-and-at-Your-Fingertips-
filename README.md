@@ -3,6 +3,9 @@
 #### Team Name - Quantum787
 #### Problem Statement - Landsat reflectanse data
 #### Team Leader Email -abhishkebhatt74550@gmail.com
+team member : 1 Abhishek bhatt 
+              2 Anchal Agarwal
+              3 Daksh bamola
 
 ## A Brief of the Prototype:
   What is your solution? and how it works.
